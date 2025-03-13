@@ -1,7 +1,5 @@
 <h1>Jogo do número secreto<h1>
-h1{
-    posicion♋;
-}
+
   
 <h5>Como atividade do curso de Java script, desenvolvemos uma aplicação bem simples para entreter em reunião de amigos ou familiares. 
     A proposta e bem simples, as pessoas precisam adivinhar o "Numero secreto" que vai de 1 a 10. <h5>
